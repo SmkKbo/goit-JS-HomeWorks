@@ -1,7 +1,7 @@
 "use strict";
 
 const total = 100;
-let ordered = 20;
+let ordered = 50;
 
 if (total > ordered && total === 100) {
   console.log("Заказ оформлен, с вами свяжется менеджер D=)");
@@ -9,7 +9,7 @@ if (total > ordered && total === 100) {
   console.log("На складе недостаточно товаров!");
 }
 
-ordered = 50;
+ordered = 20;
 
 if (total > ordered && total === 100) {
   console.log("Заказ оформлен, с вами свяжется менеджер D=)");
