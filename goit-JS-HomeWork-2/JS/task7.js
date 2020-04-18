@@ -1,5 +1,6 @@
-//ДОПОЛНИТЕЛЬНОЕ ЗАДАНИЕ
-const passwords = ["123123123", "111", "qwerty", "qazwsx"];
+"use strict";
+//pass
+const passwords = ["123", "111", "qwerty", "qazwsx"];
 let attempts = 3;
 let cancel = 0;
 
@@ -31,7 +32,5 @@ do {
     break;
   }
 
-  if (cancel === 1) {
-    break;
-  }
+  
 } while (true);

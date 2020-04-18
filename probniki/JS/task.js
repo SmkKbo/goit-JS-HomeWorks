@@ -1,5 +1,5 @@
 
-const passwords = ["qwerty", "111qwe", "123123", "r4nd0mp4zzw0rd"];
+const passwords = ["pidor", "111qwe", "123123", "r4nd0mp4zzw0rd"];
 let attempts = 3;
 let cancel = 0;
 
