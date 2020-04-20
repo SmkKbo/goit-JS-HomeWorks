@@ -27,3 +27,7 @@ const user = {
     }
   }
   
+//   const values = Object.keys(user);
+//   for (const elem of values) {
+//   console.log(`${elem} : ${user[elem]}`);
+//   }
